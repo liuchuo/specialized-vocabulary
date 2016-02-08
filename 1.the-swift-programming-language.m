@@ -111,6 +111,45 @@ iterate over items in a dictionary
 explicit initialization, condition, and increment
 精确的初始化，条件和增值
 
+parameter
+参数
+
+return multiple values
+返回多个值
+
+take a variable number of arguments
+带有可变个数的参数
+
+Functions can be nested
+函数可以嵌套
+
+have access to
+可以访问
+
+Functions are a first-class type.
+函数是第一等类型。
+
+refer to parameters
+引用参数
+
+appear immediately after the parentheses
+直接跟在括号后面
+
+property declaration
+属性的声明
+
+Likewise,
+同样，
+
+parentheses
+圆括号
+
+before the object is deallocated 
+在删除对象之前
+
+create a deinitializer
+创建一个析构函数
+
 
 
 
