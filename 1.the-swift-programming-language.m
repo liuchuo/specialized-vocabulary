@@ -150,6 +150,27 @@ before the object is deallocated
 create a deinitializer
 创建一个析构函数
 
+separated by a colon
+用冒号分割
+
+There is no requirement for
+不需要...
+
+overriding a method by accident, without override, is detected by the compiler as an error.
+如果没有添加 override 就重写父类方法的话编译器 会报错。
+
+detect
+(编译器)检测
+
+radius
+半径
+
+Implement
+实现(...方法)
+
+In addition to
+除了...
+
 
 
 
