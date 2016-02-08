@@ -171,6 +171,11 @@ Implement
 In addition to
 除了...
 
+simple properties that are stored
+存储简单的属性
+
+provide an explicit name in parentheses after set
+在 set 之后显式的设置一个名字
 
 
 
