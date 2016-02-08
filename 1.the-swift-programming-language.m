@@ -105,6 +105,13 @@ suffix
 case let x where x.hasSuffix("pepper"):
     print("Is it a spicy \(x)?")
 
+iterate over items in a dictionary
+遍历字典
+
+explicit initialization, condition, and increment
+精确的初始化，条件和增值
+
+
 
 
 
