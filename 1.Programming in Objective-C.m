@@ -17,7 +17,7 @@ framework				框架
 collection				集合（收集）
 working with files		使用文件
 memory					内存（记忆力）
-auutomatic reference counting  自动引用计数
+automatic reference counting  自动引用计数
 archive					档案
 archiving 				归档
 writing ios applications  编写iOS应用程序
